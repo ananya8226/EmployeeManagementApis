@@ -11,7 +11,7 @@ Install Node before running this project.
 ## Getting Started
 
 1. Download the project or Clone this repository:
-   git clone https://github.com/yourusername/employee-management-api.git
+   git clone [https://github.com/yourusername/employee-management-api.git](https://github.com/ananya8226/EmployeeManagementApis.git)
 
 2. Navigate to the project directory
    cd project-directory-path
